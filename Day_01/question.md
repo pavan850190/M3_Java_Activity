@@ -2,10 +2,11 @@
 Consider you guys have to develop the Cricket match result application, 
 based on the Innings information. The following details given
 
-Data type   Field name
-String      teamname
-String      inningsname
-int         runs
+| Data type   |  Field name  |
+| ----------- | ------------ |
+| String      | teamname     |
+| String      |  inningsname |
+| int         |  runs        |
 
 The requirements are the following:
 
@@ -17,7 +18,7 @@ If inningsname is “second” -  to display the result like “Match Ended”.
 Any other than this “Invalid Input”.
 Test it using the Main Class.
 
-Sample Input 1:
+Sample Input 1: 
 Enter the team name:
 Australia
 Enter session:
